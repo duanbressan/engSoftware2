@@ -1,4 +1,4 @@
-#Disposição de menus#
+#Planejamento sobre a disposição dos menus#
 
 ##Home(botão com nome do curso)##
   1. Resumo
